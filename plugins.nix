@@ -1,13 +1,8 @@
-{ fetchurl
-, fetchzip
-, lib
-, stdenv
-, callPackage
-, autoPatchelfHook
-, glib
-}:
+{ pkgs }:
 
 let
+  inherit (pkgs) lib fetchurl fetchzip;
+
   pluginsJson = builtins.fromJSON (builtins.readFile ./data/cache/plugins-latest.json);
   fetchPluginSrc = url: hash:
     let
@@ -53,7 +48,7 @@ rec {
       })
       ids);
 
-  addPlugins = pkgs: ide: unprocessedPlugins:
+  addPlugins = ide: unprocessedPlugins:
     let
 
       processPlugin = plugin:

@@ -11,14 +11,9 @@
   outputs =
     {
       self,
-      nixpkgs,
-      flake-utils,
       ...
     }:
-    let
-      inherit (nixpkgs) lib;
-    in
     {
-      default = import ./plugins.nix { inherit lib; };
+      import = pkgs: (import ./plugins.nix { inherit pkgs; });
     };
 }
