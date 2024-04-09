@@ -1,7 +1,8 @@
 #! /usr/bin/env nix-shell
 #! nix-shell -i python3 -p python3 python3.pkgs.requests python3.pkgs.json5 nix.out
 
-from json5 import load, dumps
+from json import load, dumps
+import json5
 from pathlib import Path
 from requests import get
 from subprocess import run
@@ -274,7 +275,7 @@ def sort_ids(ids: list[str]) -> list[str]:
 
 
 def get_plugin_ids() -> list[str]:
-    ids = list(load(open(PLUGINS_LIST))["plugins"])
+    ids = list(json5.load(open(PLUGINS_LIST))["plugins"])
     return sort_ids(ids)
 
 

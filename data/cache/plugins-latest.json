@@ -1,7 +1,7 @@
 {
-  plugins: {
+  "plugins": {
     "4509": {
-      compatible: [
+      "compatible": [
         "clion",
         "datagrip",
         "goland",
@@ -13,9 +13,9 @@
         "pycharm-professional",
         "rider",
         "ruby-mine",
-        "webstorm",
+        "webstorm"
       ],
-      builds: {
+      "builds": {
         "233.13135.979": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
         "233.14015.137": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
         "233.14475.31": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
@@ -25,12 +25,12 @@
         "233.15026.14": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
         "233.15026.15": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
         "233.15026.17": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
-        "233.15026.9": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
+        "233.15026.9": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar"
       },
-      name: "statistic",
+      "name": "statistic"
     },
     "12124": {
-      compatible: [
+      "compatible": [
         "clion",
         "datagrip",
         "goland",
@@ -42,9 +42,9 @@
         "pycharm-professional",
         "rider",
         "ruby-mine",
-        "webstorm",
+        "webstorm"
       ],
-      builds: {
+      "builds": {
         "233.13135.979": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
         "233.14015.137": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
         "233.14475.31": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
@@ -54,12 +54,12 @@
         "233.15026.14": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
         "233.15026.15": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
         "233.15026.17": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
-        "233.15026.9": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
+        "233.15026.9": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip"
       },
-      name: "material-theme-ui-lite",
+      "name": "material-theme-ui-lite"
     },
     "13710": {
-      compatible: [
+      "compatible": [
         "clion",
         "datagrip",
         "goland",
@@ -70,9 +70,9 @@
         "pycharm-professional",
         "rider",
         "ruby-mine",
-        "webstorm",
+        "webstorm"
       ],
-      builds: {
+      "builds": {
         "233.14015.137": "https://plugins.jetbrains.com/files/13710/495283/zh.233.287.zip",
         "233.14475.31": "https://plugins.jetbrains.com/files/13710/495283/zh.233.287.zip",
         "233.14475.66": "https://plugins.jetbrains.com/files/13710/495283/zh.233.287.zip",
@@ -81,14 +81,14 @@
         "233.15026.14": "https://plugins.jetbrains.com/files/13710/495283/zh.233.287.zip",
         "233.15026.15": "https://plugins.jetbrains.com/files/13710/495283/zh.233.287.zip",
         "233.15026.17": "https://plugins.jetbrains.com/files/13710/495283/zh.233.287.zip",
-        "233.15026.9": "https://plugins.jetbrains.com/files/13710/495283/zh.233.287.zip",
+        "233.15026.9": "https://plugins.jetbrains.com/files/13710/495283/zh.233.287.zip"
       },
-      name: "chinese-simplified-language-pack----",
-    },
+      "name": "chinese-simplified-language-pack----"
+    }
   },
-  files: {
+  "files": {
     "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip": "sha256-jiTjcNjzx1wDACZJMpyLk3NWSkHq1QIT9RNRyRl9M7E=",
     "https://plugins.jetbrains.com/files/13710/495283/zh.233.287.zip": "sha256-CECRVvxeDQRdxKWmQjFz4bShNtZDQC6GDzQm4h87QQQ=",
-    "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar": "sha256-0ZHXku1HtHCI4kHVMN0DxD/FFmCcrcDqZo8eGiPVPtY=",
-  },
+    "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar": "sha256-0ZHXku1HtHCI4kHVMN0DxD/FFmCcrcDqZo8eGiPVPtY="
+  }
 }

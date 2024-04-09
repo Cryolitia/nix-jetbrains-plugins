@@ -1,0 +1,51 @@
+name: "Update Plugins"
+on:
+  workflow_dispatch:
+  workflow_call:
+  schedule:
+    # rebuild everyday at 2:51
+    # TIP: Choose a random time here so not all repositories are build at once:
+    # https://www.random.org/clock-times/?num=1&earliest=01%3A00&latest=08%3A00&interval=5&format=html&rnd=new
+    - cron:  '41 2 * * *'
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - '.github/workflows/update-plugins.yml'
+      - 'flake.lock'
+      - 'data/plugins.json'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: DeterminateSystems/nix-installer-action@main
+      - uses: DeterminateSystems/magic-nix-cache-action@main
+      - uses: DeterminateSystems/flake-checker-action@main
+
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          show-progress: false
+
+      - name: Setup Git
+        run: |
+          git config --global user.name "$GITHUB_ACTOR"
+          git config --global user.email "$GITHUB_ACTOR@users.noreply.github.com"
+          git show -s
+
+      - name: Update plugins
+        run: ./update_plugins.py
+
+      - name: Update flake
+        continue-on-error: true
+        id: gitUpdate
+        run: |
+          git add .
+          git status
+          git commit -m "plugins update: $(date +'%Y-%m-%dT%H:%M:%S')" || exit 0
+          git push
