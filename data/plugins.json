@@ -1,0 +1,12 @@
+{
+    "plugins": [
+        // Statistic
+        "4509",
+
+        // Material Theme UI Lite
+        "12124",
+
+        // Chinese ​(Simplified)​ Language Pack
+        "13710"
+    ]
+}
