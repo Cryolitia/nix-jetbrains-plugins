@@ -17,15 +17,15 @@
       ],
       "builds": {
         "233.13135.979": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
-        "233.14475.31": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
-        "233.14475.66": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
         "241.14494.234": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
         "241.14494.235": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
         "241.14494.237": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
         "241.14494.238": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
         "241.14494.240": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
         "241.14494.241": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
-        "241.14494.251": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar"
+        "241.14494.283": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
+        "241.14494.288": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
+        "241.14494.307": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar"
       },
       "name": "statistic"
     },
@@ -46,15 +46,15 @@
       ],
       "builds": {
         "233.13135.979": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
-        "233.14475.31": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
-        "233.14475.66": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
         "241.14494.234": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
         "241.14494.235": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
         "241.14494.237": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
         "241.14494.238": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
         "241.14494.240": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
         "241.14494.241": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
-        "241.14494.251": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip"
+        "241.14494.283": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
+        "241.14494.288": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
+        "241.14494.307": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip"
       },
       "name": "material-theme-ui-lite"
     },
@@ -73,22 +73,21 @@
         "webstorm"
       ],
       "builds": {
-        "233.14475.31": "https://plugins.jetbrains.com/files/13710/495283/zh.233.287.zip",
-        "233.14475.66": "https://plugins.jetbrains.com/files/13710/495283/zh.233.287.zip",
         "241.14494.234": "https://plugins.jetbrains.com/files/13710/519859/zh.241.219.zip",
         "241.14494.235": "https://plugins.jetbrains.com/files/13710/519859/zh.241.219.zip",
         "241.14494.237": "https://plugins.jetbrains.com/files/13710/519859/zh.241.219.zip",
         "241.14494.238": "https://plugins.jetbrains.com/files/13710/519859/zh.241.219.zip",
         "241.14494.240": "https://plugins.jetbrains.com/files/13710/519859/zh.241.219.zip",
         "241.14494.241": "https://plugins.jetbrains.com/files/13710/519859/zh.241.219.zip",
-        "241.14494.251": "https://plugins.jetbrains.com/files/13710/519859/zh.241.219.zip"
+        "241.14494.283": "https://plugins.jetbrains.com/files/13710/519859/zh.241.219.zip",
+        "241.14494.288": "https://plugins.jetbrains.com/files/13710/519859/zh.241.219.zip",
+        "241.14494.307": "https://plugins.jetbrains.com/files/13710/519859/zh.241.219.zip"
       },
       "name": "chinese-simplified-language-pack----"
     }
   },
   "files": {
     "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip": "sha256-jiTjcNjzx1wDACZJMpyLk3NWSkHq1QIT9RNRyRl9M7E=",
-    "https://plugins.jetbrains.com/files/13710/495283/zh.233.287.zip": "sha256-CECRVvxeDQRdxKWmQjFz4bShNtZDQC6GDzQm4h87QQQ=",
     "https://plugins.jetbrains.com/files/13710/519859/zh.241.219.zip": "sha256-5WpxPx2NGgqUO2Tx2wANXopAaRxFsINfLT9m/BakjcE=",
     "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar": "sha256-0ZHXku1HtHCI4kHVMN0DxD/FFmCcrcDqZo8eGiPVPtY="
   }
