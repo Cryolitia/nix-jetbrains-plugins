@@ -23,7 +23,8 @@ TOKENS = {
 SNAPSHOT_VALUE = 99999
 PLUGINS_LIST = Path(__file__).parent.joinpath("./data/plugins.json").resolve()
 PLUGINS_FILE = Path(__file__).parent.joinpath("./data/cache/plugins-latest.json").resolve()
-IDES_FILE = Path(__file__).parent.joinpath("./data/cache/ides-latest.json").resolve()
+NIXPKGS_IDES_FILE = Path(__file__).parent.joinpath("./data/cache/nixpkgs-ides-latest.json").resolve()
+NIXOS_IDES_FILE = Path(__file__).parent.joinpath("./data/cache/nixos-ides-latest.json").resolve()
 FLAKE_LOCK_FILE = Path(__file__).parent.joinpath("./flake.lock").resolve()
 # The plugin compatibility system uses a different naming scheme to the ide update system.
 # These dicts convert between them
@@ -306,11 +307,20 @@ def ids_to_infos(ids: list[str]) -> dict:
 
 
 def get_ide_versions() -> dict:
-    ide_data = load(open(IDES_FILE))
     result = {}
+
+    ide_data = load(open(NIXPKGS_IDES_FILE))
     for platform in ide_data:
         for product in ide_data[platform]:
+            version = ide_data[platform][product]["build_number"]
+            if product not in result:
+                result[product] = [version]
+            elif version not in result[product]:
+                result[product].append(version)
 
+    ide_data = load(open(NIXOS_IDES_FILE))
+    for platform in ide_data:
+        for product in ide_data[platform]:
             version = ide_data[platform][product]["build_number"]
             if product not in result:
                 result[product] = [version]
@@ -342,13 +352,22 @@ def write_result(to_write):
     dump(to_write, open(PLUGINS_FILE, "w"))
 
 def get_nixpkgs_ides_versions():
-    rev = load(open(FLAKE_LOCK_FILE))["nodes"]["nixpkgs"]["locked"]["rev"]
+    rev = load(open(FLAKE_LOCK_FILE))["nodes"]["nixpkgs-unstable"]["locked"]["rev"]
     url = f"https://raw.githubusercontent.com/NixOS/nixpkgs/{rev}/pkgs/applications/editors/jetbrains/bin/versions.json"
     resp = get(url)
     if resp.status_code != 200:
         print(f"Server gave non-200 code {resp.status_code} with message " + resp.text)
         exit(1)
-    with open(IDES_FILE, "w") as file:
+    with open(NIXPKGS_IDES_FILE, "w") as file:
+        file.write(resp.text)
+
+    rev = load(open(FLAKE_LOCK_FILE))["nodes"]["nixos-unstable"]["locked"]["rev"]
+    url = f"https://raw.githubusercontent.com/NixOS/nixpkgs/{rev}/pkgs/applications/editors/jetbrains/bin/versions.json"
+    resp = get(url)
+    if resp.status_code != 200:
+        print(f"Server gave non-200 code {resp.status_code} with message " + resp.text)
+        exit(1)
+    with open(NIXOS_IDES_FILE, "w") as file:
         file.write(resp.text)
 
 
