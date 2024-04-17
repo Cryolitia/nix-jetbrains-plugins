@@ -38,13 +38,18 @@ jobs:
           git config --global user.email "$GITHUB_ACTOR@users.noreply.github.com"
           git show -s
 
-      - name: Update plugins
-        run: ./update_plugins.py
-
-      - name: Update flake
+      - name: Update flake and plugin
         continue-on-error: true
         id: gitUpdate
         run: |
+          set +e
+
+          nix flake update --accept-flake-config
+          nix flake info --accept-flake-config
+          git commit -m "flake update: $(date +'%Y-%m-%dT%H:%M:%S')"
+
+          ./update_plugins.py
+
           git add .
           git status
           git commit -m "plugins update: $(date +'%Y-%m-%dT%H:%M:%S')" || exit 0

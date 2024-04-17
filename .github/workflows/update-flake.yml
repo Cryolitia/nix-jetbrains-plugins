@@ -42,7 +42,7 @@ jobs:
           nix flake update --accept-flake-config
           nix flake info --accept-flake-config
 
-      - name: Update flake
+      - name: Commit to git
         continue-on-error: true
         id: gitUpdate
         run: |
