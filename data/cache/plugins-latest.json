@@ -17,9 +17,6 @@
       ],
       "builds": {
         "233.13135.979": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
-        "241.14494.238": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
-        "241.14494.240": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
-        "241.14494.241": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
         "241.14494.325": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
         "241.15989.102": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
         "241.15989.105": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
@@ -49,9 +46,6 @@
       ],
       "builds": {
         "233.13135.979": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
-        "241.14494.238": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
-        "241.14494.240": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
-        "241.14494.241": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
         "241.14494.325": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
         "241.15989.102": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
         "241.15989.105": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
@@ -79,9 +73,6 @@
         "webstorm"
       ],
       "builds": {
-        "241.14494.238": "https://plugins.jetbrains.com/files/13710/523117/zh.241.230.zip",
-        "241.14494.240": "https://plugins.jetbrains.com/files/13710/523117/zh.241.230.zip",
-        "241.14494.241": "https://plugins.jetbrains.com/files/13710/523117/zh.241.230.zip",
         "241.14494.325": "https://plugins.jetbrains.com/files/13710/523117/zh.241.230.zip",
         "241.15989.102": "https://plugins.jetbrains.com/files/13710/523117/zh.241.230.zip",
         "241.15989.105": "https://plugins.jetbrains.com/files/13710/523117/zh.241.230.zip",
