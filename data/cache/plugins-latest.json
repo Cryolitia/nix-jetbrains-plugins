@@ -16,16 +16,16 @@
         "webstorm"
       ],
       "builds": {
-        "233.13135.979": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
-        "241.15989.179": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
-        "241.17011.119": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
-        "241.17011.124": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
-        "241.17011.127": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
-        "241.17011.41": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
-        "241.17011.76": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
-        "241.17011.79": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
-        "241.17011.90": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
-        "241.17011.92": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar"
+        "233.13135.1068": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
+        "241.17011.166": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
+        "241.17890.1": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
+        "241.17890.13": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
+        "241.17890.14": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
+        "241.17890.15": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
+        "241.17890.19": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
+        "241.17890.21": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
+        "241.17890.24": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar",
+        "241.17890.8": "https://plugins.jetbrains.com/files/4509/458974/Statistic-4.2.14.jar"
       },
       "name": "statistic"
     },
@@ -45,16 +45,16 @@
         "webstorm"
       ],
       "builds": {
-        "233.13135.979": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
-        "241.15989.179": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
-        "241.17011.119": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
-        "241.17011.124": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
-        "241.17011.127": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
-        "241.17011.41": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
-        "241.17011.76": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
-        "241.17011.79": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
-        "241.17011.90": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
-        "241.17011.92": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip"
+        "233.13135.1068": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
+        "241.17011.166": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
+        "241.17890.1": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
+        "241.17890.13": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
+        "241.17890.14": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
+        "241.17890.15": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
+        "241.17890.19": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
+        "241.17890.21": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
+        "241.17890.24": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
+        "241.17890.8": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip"
       },
       "name": "material-theme-ui-lite"
     },
@@ -73,15 +73,15 @@
         "webstorm"
       ],
       "builds": {
-        "241.15989.179": "https://plugins.jetbrains.com/files/13710/546715/zh.241.271.zip",
-        "241.17011.119": "https://plugins.jetbrains.com/files/13710/546715/zh.241.271.zip",
-        "241.17011.124": "https://plugins.jetbrains.com/files/13710/546715/zh.241.271.zip",
-        "241.17011.127": "https://plugins.jetbrains.com/files/13710/546715/zh.241.271.zip",
-        "241.17011.41": "https://plugins.jetbrains.com/files/13710/546715/zh.241.271.zip",
-        "241.17011.76": "https://plugins.jetbrains.com/files/13710/546715/zh.241.271.zip",
-        "241.17011.79": "https://plugins.jetbrains.com/files/13710/546715/zh.241.271.zip",
-        "241.17011.90": "https://plugins.jetbrains.com/files/13710/546715/zh.241.271.zip",
-        "241.17011.92": "https://plugins.jetbrains.com/files/13710/546715/zh.241.271.zip"
+        "241.17011.166": "https://plugins.jetbrains.com/files/13710/546715/zh.241.271.zip",
+        "241.17890.1": "https://plugins.jetbrains.com/files/13710/546715/zh.241.271.zip",
+        "241.17890.13": "https://plugins.jetbrains.com/files/13710/546715/zh.241.271.zip",
+        "241.17890.14": "https://plugins.jetbrains.com/files/13710/546715/zh.241.271.zip",
+        "241.17890.15": "https://plugins.jetbrains.com/files/13710/546715/zh.241.271.zip",
+        "241.17890.19": "https://plugins.jetbrains.com/files/13710/546715/zh.241.271.zip",
+        "241.17890.21": "https://plugins.jetbrains.com/files/13710/546715/zh.241.271.zip",
+        "241.17890.24": "https://plugins.jetbrains.com/files/13710/546715/zh.241.271.zip",
+        "241.17890.8": "https://plugins.jetbrains.com/files/13710/546715/zh.241.271.zip"
       },
       "name": "chinese-simplified-language-pack----"
     }
