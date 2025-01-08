@@ -17,15 +17,15 @@
       ],
       "builds": {
         "241.19072.1155": "https://plugins.jetbrains.com/files/4509/586284/Statistic-4.3.1.jar",
-        "243.22562.112": "https://plugins.jetbrains.com/files/4509/624590/Statistic-4.3.2.jar",
-        "243.22562.115": "https://plugins.jetbrains.com/files/4509/624590/Statistic-4.3.2.jar",
-        "243.22562.145": "https://plugins.jetbrains.com/files/4509/624590/Statistic-4.3.2.jar",
-        "243.22562.151": "https://plugins.jetbrains.com/files/4509/624590/Statistic-4.3.2.jar",
-        "243.22562.155": "https://plugins.jetbrains.com/files/4509/624590/Statistic-4.3.2.jar",
-        "243.22562.164": "https://plugins.jetbrains.com/files/4509/624590/Statistic-4.3.2.jar",
-        "243.22562.171": "https://plugins.jetbrains.com/files/4509/624590/Statistic-4.3.2.jar",
-        "243.22562.180": "https://plugins.jetbrains.com/files/4509/624590/Statistic-4.3.2.jar",
-        "243.22562.186": "https://plugins.jetbrains.com/files/4509/624590/Statistic-4.3.2.jar"
+        "243.22562.112": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar",
+        "243.22562.115": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar",
+        "243.22562.145": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar",
+        "243.22562.151": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar",
+        "243.22562.155": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar",
+        "243.22562.164": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar",
+        "243.22562.171": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar",
+        "243.22562.180": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar",
+        "243.22562.186": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar"
       },
       "name": "statistic"
     },
@@ -120,6 +120,6 @@
     "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip": "sha256-mg6cqOFevYVIDaJYrV15toVTFQZHqO8pHMiSad7pGE8=",
     "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip": "sha256-hyM9O4Xgb7sMx8Q/gq/BHmvIcd0jeiVcS763Z4gzMkw=",
     "https://plugins.jetbrains.com/files/4509/586284/Statistic-4.3.1.jar": "sha256-alBNvvx1CbjtydX7xG0ICGTlttKQjIPULESNIR9ED84=",
-    "https://plugins.jetbrains.com/files/4509/624590/Statistic-4.3.2.jar": "sha256-bqkRCUhvuHeryLJoxr9Spq5cgf3LJCrHt8wMNQowUL0="
+    "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar": "sha256-WXF7vp9n6hTQyTW8LDOzEmKBmq/9LmtY8KSyziVJUYs="
   }
 }
