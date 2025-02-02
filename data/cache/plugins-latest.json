@@ -16,16 +16,8 @@
         "webstorm"
       ],
       "builds": {
-        "241.19072.1155": "https://plugins.jetbrains.com/files/4509/586284/Statistic-4.3.1.jar",
         "243.21565.447": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar",
-        "243.22562.220": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar",
-        "243.22562.250": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar",
-        "243.23654.112": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar",
         "243.23654.114": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar",
-        "243.23654.115": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar",
-        "243.23654.117": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar",
-        "243.23654.119": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar",
-        "243.23654.120": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar",
         "243.23654.126": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar",
         "243.23654.157": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar",
         "243.23654.166": "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar",
@@ -53,16 +45,8 @@
         "webstorm"
       ],
       "builds": {
-        "241.19072.1155": "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip",
         "243.21565.447": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
-        "243.22562.220": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
-        "243.22562.250": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
-        "243.23654.112": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
         "243.23654.114": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
-        "243.23654.115": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
-        "243.23654.117": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
-        "243.23654.119": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
-        "243.23654.120": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
         "243.23654.126": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
         "243.23654.157": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
         "243.23654.166": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
@@ -89,14 +73,7 @@
         "webstorm"
       ],
       "builds": {
-        "243.22562.220": null,
-        "243.22562.250": null,
-        "243.23654.112": null,
         "243.23654.114": null,
-        "243.23654.115": null,
-        "243.23654.117": null,
-        "243.23654.119": null,
-        "243.23654.120": null,
         "243.23654.126": null,
         "243.23654.157": null,
         "243.23654.166": null,
@@ -124,16 +101,8 @@
         "webstorm"
       ],
       "builds": {
-        "241.19072.1155": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
         "243.21565.447": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
-        "243.22562.220": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
-        "243.22562.250": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
-        "243.23654.112": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
         "243.23654.114": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
-        "243.23654.115": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
-        "243.23654.117": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
-        "243.23654.119": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
-        "243.23654.120": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
         "243.23654.126": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
         "243.23654.157": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
         "243.23654.166": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
@@ -147,10 +116,8 @@
     }
   },
   "files": {
-    "https://plugins.jetbrains.com/files/12124/411258/Material_Theme_UI_Lite-23.0.0.zip": "sha256-jiTjcNjzx1wDACZJMpyLk3NWSkHq1QIT9RNRyRl9M7E=",
     "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip": "sha256-mg6cqOFevYVIDaJYrV15toVTFQZHqO8pHMiSad7pGE8=",
     "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip": "sha256-hyM9O4Xgb7sMx8Q/gq/BHmvIcd0jeiVcS763Z4gzMkw=",
-    "https://plugins.jetbrains.com/files/4509/586284/Statistic-4.3.1.jar": "sha256-alBNvvx1CbjtydX7xG0ICGTlttKQjIPULESNIR9ED84=",
     "https://plugins.jetbrains.com/files/4509/661721/Statistic-4.3.3.jar": "sha256-WXF7vp9n6hTQyTW8LDOzEmKBmq/9LmtY8KSyziVJUYs="
   }
 }
