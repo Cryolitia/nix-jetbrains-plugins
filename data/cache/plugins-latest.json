@@ -45,16 +45,16 @@
         "webstorm"
       ],
       "builds": {
-        "243.21565.447": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
-        "243.23654.157": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
-        "243.23654.167": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
-        "243.23654.183": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
-        "243.24978.27": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
-        "243.24978.46": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
-        "243.24978.50": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
-        "243.24978.54": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
-        "243.24978.55": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip",
-        "243.24978.59": "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip"
+        "243.21565.447": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "243.23654.157": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "243.23654.167": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "243.23654.183": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "243.24978.27": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "243.24978.46": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "243.24978.50": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "243.24978.54": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "243.24978.55": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "243.24978.59": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip"
       },
       "name": "material-theme-ui-lite"
     },
@@ -116,7 +116,7 @@
     }
   },
   "files": {
-    "https://plugins.jetbrains.com/files/12124/631751/Material_Theme_UI_Lite-24.0.0.zip": "sha256-mg6cqOFevYVIDaJYrV15toVTFQZHqO8pHMiSad7pGE8=",
+    "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip": "sha256-jBux6DlevhQyb0I+S03LarpP3snIxGFBBbNUymTl8Nk=",
     "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip": "sha256-hyM9O4Xgb7sMx8Q/gq/BHmvIcd0jeiVcS763Z4gzMkw=",
     "https://plugins.jetbrains.com/files/4509/681042/Statistic-4.4.jar": "sha256-C798n1S+lBG4+2FviWzdaf3eeReN9lPNZ6R9o/20Edo="
   }
