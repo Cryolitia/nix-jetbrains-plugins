@@ -25,7 +25,13 @@
         "243.25659.43": "https://plugins.jetbrains.com/files/4509/681042/Statistic-4.4.jar",
         "243.25659.45": "https://plugins.jetbrains.com/files/4509/681042/Statistic-4.4.jar",
         "243.25659.52": "https://plugins.jetbrains.com/files/4509/681042/Statistic-4.4.jar",
-        "243.25659.59": "https://plugins.jetbrains.com/files/4509/681042/Statistic-4.4.jar"
+        "243.25659.59": "https://plugins.jetbrains.com/files/4509/681042/Statistic-4.4.jar",
+        "243.26053.12": "https://plugins.jetbrains.com/files/4509/681042/Statistic-4.4.jar",
+        "243.26053.13": "https://plugins.jetbrains.com/files/4509/681042/Statistic-4.4.jar",
+        "243.26053.19": "https://plugins.jetbrains.com/files/4509/681042/Statistic-4.4.jar",
+        "243.26053.20": "https://plugins.jetbrains.com/files/4509/681042/Statistic-4.4.jar",
+        "243.26053.27": "https://plugins.jetbrains.com/files/4509/681042/Statistic-4.4.jar",
+        "243.26053.29": "https://plugins.jetbrains.com/files/4509/681042/Statistic-4.4.jar"
       },
       "name": "statistic"
     },
@@ -54,7 +60,13 @@
         "243.25659.43": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
         "243.25659.45": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
         "243.25659.52": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
-        "243.25659.59": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip"
+        "243.25659.59": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "243.26053.12": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "243.26053.13": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "243.26053.19": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "243.26053.20": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "243.26053.27": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "243.26053.29": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip"
       },
       "name": "material-theme-ui-lite"
     },
@@ -81,7 +93,13 @@
         "243.25659.43": null,
         "243.25659.45": null,
         "243.25659.52": null,
-        "243.25659.59": null
+        "243.25659.59": null,
+        "243.26053.12": null,
+        "243.26053.13": null,
+        "243.26053.19": null,
+        "243.26053.20": null,
+        "243.26053.27": null,
+        "243.26053.29": null
       },
       "name": "chinese-simplified-language-pack----"
     },
@@ -110,7 +128,13 @@
         "243.25659.43": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
         "243.25659.45": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
         "243.25659.52": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
-        "243.25659.59": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip"
+        "243.25659.59": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
+        "243.26053.12": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
+        "243.26053.13": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
+        "243.26053.19": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
+        "243.26053.20": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
+        "243.26053.27": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip",
+        "243.26053.29": "https://plugins.jetbrains.com/files/18470/635771/glsl-plugin-idea-1.1.4.zip"
       },
       "name": "glsl"
     }
