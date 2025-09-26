@@ -16,14 +16,14 @@
       ],
       "builds": {
         "252.23892.529": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
-        "252.25557.126": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
-        "252.25557.127": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
-        "252.25557.128": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
-        "252.25557.131": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
-        "252.25557.135": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
         "252.25557.178": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
-        "252.25557.182": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
-        "252.25557.189": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
+        "252.26199.153": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
+        "252.26199.154": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
+        "252.26199.157": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
+        "252.26199.158": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
+        "252.26199.162": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
+        "252.26199.163": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
+        "252.26199.169": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
         "252.26199.73": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip"
       },
       "name": "statistic"
@@ -44,14 +44,14 @@
       ],
       "builds": {
         "252.23892.529": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
-        "252.25557.126": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
-        "252.25557.127": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
-        "252.25557.128": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
-        "252.25557.131": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
-        "252.25557.135": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
         "252.25557.178": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
-        "252.25557.182": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
-        "252.25557.189": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "252.26199.153": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "252.26199.154": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "252.26199.157": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "252.26199.158": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "252.26199.162": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "252.26199.163": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
+        "252.26199.169": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip",
         "252.26199.73": "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip"
       },
       "name": "material-theme-ui-lite"
@@ -70,14 +70,14 @@
         "webstorm"
       ],
       "builds": {
-        "252.25557.126": null,
-        "252.25557.127": null,
-        "252.25557.128": null,
-        "252.25557.131": null,
-        "252.25557.135": null,
         "252.25557.178": null,
-        "252.25557.182": null,
-        "252.25557.189": null,
+        "252.26199.153": null,
+        "252.26199.154": null,
+        "252.26199.157": null,
+        "252.26199.158": null,
+        "252.26199.162": null,
+        "252.26199.163": null,
+        "252.26199.169": null,
         "252.26199.73": null
       },
       "name": "chinese-simplified-language-pack----"
@@ -98,14 +98,14 @@
       ],
       "builds": {
         "252.23892.529": "https://plugins.jetbrains.com/files/18470/744463/glsl-plugin-idea-1.1.6.zip",
-        "252.25557.126": "https://plugins.jetbrains.com/files/18470/744463/glsl-plugin-idea-1.1.6.zip",
-        "252.25557.127": "https://plugins.jetbrains.com/files/18470/744463/glsl-plugin-idea-1.1.6.zip",
-        "252.25557.128": "https://plugins.jetbrains.com/files/18470/744463/glsl-plugin-idea-1.1.6.zip",
-        "252.25557.131": "https://plugins.jetbrains.com/files/18470/744463/glsl-plugin-idea-1.1.6.zip",
-        "252.25557.135": "https://plugins.jetbrains.com/files/18470/744463/glsl-plugin-idea-1.1.6.zip",
         "252.25557.178": "https://plugins.jetbrains.com/files/18470/744463/glsl-plugin-idea-1.1.6.zip",
-        "252.25557.182": "https://plugins.jetbrains.com/files/18470/744463/glsl-plugin-idea-1.1.6.zip",
-        "252.25557.189": "https://plugins.jetbrains.com/files/18470/744463/glsl-plugin-idea-1.1.6.zip",
+        "252.26199.153": "https://plugins.jetbrains.com/files/18470/744463/glsl-plugin-idea-1.1.6.zip",
+        "252.26199.154": "https://plugins.jetbrains.com/files/18470/744463/glsl-plugin-idea-1.1.6.zip",
+        "252.26199.157": "https://plugins.jetbrains.com/files/18470/744463/glsl-plugin-idea-1.1.6.zip",
+        "252.26199.158": "https://plugins.jetbrains.com/files/18470/744463/glsl-plugin-idea-1.1.6.zip",
+        "252.26199.162": "https://plugins.jetbrains.com/files/18470/744463/glsl-plugin-idea-1.1.6.zip",
+        "252.26199.163": "https://plugins.jetbrains.com/files/18470/744463/glsl-plugin-idea-1.1.6.zip",
+        "252.26199.169": "https://plugins.jetbrains.com/files/18470/744463/glsl-plugin-idea-1.1.6.zip",
         "252.26199.73": "https://plugins.jetbrains.com/files/18470/744463/glsl-plugin-idea-1.1.6.zip"
       },
       "name": "glsl"
