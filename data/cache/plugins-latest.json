@@ -15,16 +15,16 @@
         "webstorm"
       ],
       "builds": {
-        "252.26199.587": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
-        "252.26830.46": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
-        "252.27397.100": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
-        "252.27397.103": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
-        "252.27397.106": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
-        "252.27397.109": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
-        "252.27397.112": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
-        "252.27397.114": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
-        "252.27397.121": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip",
-        "252.27397.92": "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip"
+        "252.26199.587": "https://plugins.jetbrains.com/files/4509/890370/jpower8_idea_statistic-5.1.zip",
+        "252.26830.46": "https://plugins.jetbrains.com/files/4509/890370/jpower8_idea_statistic-5.1.zip",
+        "252.27397.100": "https://plugins.jetbrains.com/files/4509/890370/jpower8_idea_statistic-5.1.zip",
+        "252.27397.103": "https://plugins.jetbrains.com/files/4509/890370/jpower8_idea_statistic-5.1.zip",
+        "252.27397.106": "https://plugins.jetbrains.com/files/4509/890370/jpower8_idea_statistic-5.1.zip",
+        "252.27397.109": "https://plugins.jetbrains.com/files/4509/890370/jpower8_idea_statistic-5.1.zip",
+        "252.27397.112": "https://plugins.jetbrains.com/files/4509/890370/jpower8_idea_statistic-5.1.zip",
+        "252.27397.114": "https://plugins.jetbrains.com/files/4509/890370/jpower8_idea_statistic-5.1.zip",
+        "252.27397.121": "https://plugins.jetbrains.com/files/4509/890370/jpower8_idea_statistic-5.1.zip",
+        "252.27397.92": "https://plugins.jetbrains.com/files/4509/890370/jpower8_idea_statistic-5.1.zip"
       },
       "name": "statistic"
     },
@@ -114,6 +114,6 @@
   "files": {
     "https://plugins.jetbrains.com/files/12124/689880/Material_Theme_UI_Lite-25.0.0.zip": "sha256-jBux6DlevhQyb0I+S03LarpP3snIxGFBBbNUymTl8Nk=",
     "https://plugins.jetbrains.com/files/18470/744463/glsl-plugin-idea-1.1.6.zip": "sha256-L3y1WZXAQWzGt0T8Bh3LZGT/hcxEa/QZrV4D2acTaOg=",
-    "https://plugins.jetbrains.com/files/4509/788151/jpower8_idea_statistic-5.0.zip": "sha256-i67ssLK4Dpqxknu+s/KOBZGKPE4qVpZNZ1KABhgAPWc="
+    "https://plugins.jetbrains.com/files/4509/890370/jpower8_idea_statistic-5.1.zip": "sha256-tgvO2dOrJzx35TLd9wCOnzQg6ZG+bu4LwUSotP/6RXU="
   }
 }
